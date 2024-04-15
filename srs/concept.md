@@ -19,3 +19,21 @@
 5. 以层级结构方式处理用户商品交互序列
    1. 元数据与用户商品交互序列
    2. 子序列与用户商品交互序列
+
+## Approaches
+
+1. Traditional Sequence Models
+   1. Sequential Pattern Mining
+   2. Markov Chain Models
+2. Latent Representation Models
+   1. Factorization Machines
+   2. Embedding Models
+3. Deep Neural Networks
+   1. Basic DNN
+      1. RNN
+      2. CNN
+      3. GNN
+   2. Advanced Models
+      1. Attention Models
+      2. Memory Models
+      3. Mixture Models
